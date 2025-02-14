@@ -7,7 +7,7 @@ const AboutMe = () => {
         About Me
       </div>
       <p className='text-xl leading-relaxed  text-start'>
-        I am Muhammad Taufiq.I am a Front-end Web Developer Interested in Developing Beautiful User Interfaces.I am skilled in Fundamental Front-end technologies of HTML,CSS,Javascript as well as with the Popular Javascript Library ReactJS.I have started learning web development since my second year of college.I would be a suitable candidate because I am flexible to continously learn new technologies that meets the needs of organization i work.
+      I am Muhammad Taufiq,<br />I am a Front-end Web Developer Interested in Developing Beautiful User Interfaces.I am skilled in Fundamental Front-end technologies of HTML,CSS,Javascript as well as with the Popular Javascript Library ReactJS.I have started learning web development since my second year of college.I would be a suitable candidate because I am flexible to continously learn new technologies that meets the needs of organization i work.
       </p>
     </div>
   )
