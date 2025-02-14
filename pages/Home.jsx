@@ -7,9 +7,7 @@ const Home = () => {
 
         <p className='ml-1 text-2xl'>Front-End Web Developer | ReactJS HTML CSS Javascript </p>
         
-        <a href="https://drive.google.com/uc?export=download&id=1tdjvZndJvjUok98fD5Zh8nssjcyItdNo"  download={"Muhammad Taufiq - Resume"} className='ml-1 bg-cyan-700 text-white p-6 rounded-full cursor-pointer'>
-        Download Resume
-        </a>
+        <a href="https://drive.google.com/uc?export=download&id=1tdjvZndJvjUok98fD5Zh8nssjcyItdNo"  download={"Muhammad Taufiq - Resume"} className='ml-1 bg-cyan-700 text-white p-6 rounded-full cursor-pointer'>Download Resume</a>
 
     </div>
   )
