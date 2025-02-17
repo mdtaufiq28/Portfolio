@@ -4,13 +4,13 @@ const HireMe = () => {
   return (
     <div className='flex flex-col gap-y-4 w-full items-center'>
 
-      <div className='text-4xl text-cyan-700 font-bold'>
+      <div className='text-4xl max-lg:text-3xl max-md:text-xl text-cyan-700 font-bold'>
         Hire Me
       </div>
       
-      <div className='flex flex-col gap-x-4 text-2xl items-center gap-y-4'>
+      <div className='flex flex-col gap-x-4 text-2xl max-lg:text-xl max-md:text-lg items-center gap-y-4'>
           <p>Phone : +917010833917</p>
-          <p>Email : mohammed.taufiq.n@gmail.com</p>
+          <p>Email : n.muhammad.taufiq@outlook.com</p>
       </div>
 
       <div className='flex gap-x-5'>

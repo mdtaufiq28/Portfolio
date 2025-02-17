@@ -5,7 +5,7 @@ const Layout = () => {
   return (
     <div className='flex flex-col gap-y-20 items-start min-h-screen'>
 
-      <div className='flex w-full justify-around  bg-slate-100 py-5  '>
+      <div className='flex w-full justify-around  bg-slate-100 py-5 max-lg:text-xl max-md:text-sm max-md:px-4'>
         <div className='cursor-pointer font-bold'>
           <Link to="/">Home</Link>
         </div>
